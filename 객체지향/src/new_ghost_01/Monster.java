@@ -18,7 +18,7 @@ public class Monster extends Thread {
 	private Image monsterBasicImage = new ImageIcon(Main.class.getResource("../images/monster.png")).getImage();
 
 	Random rd = new Random();
-
+	int ttt;
 	private Rectangle2D monsterR;
 	private Game game;
 	
