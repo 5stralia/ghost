@@ -1,4 +1,4 @@
-package new_ghost_02;
+package new_ghost_03;
 
 import java.awt.Container;
 import java.awt.Graphics;

@@ -1,4 +1,4 @@
-package ghost_06;
+package new_ghost_03;
 
 import java.io.*;
 

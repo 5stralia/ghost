@@ -1,4 +1,4 @@
-package new_ghost_02;
+package new_ghost_03;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
